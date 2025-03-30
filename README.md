@@ -18,6 +18,8 @@ Let's Connect on LinkedIn : https://www.linkedin.com/in/aryan5hukla/
 ## 📈 GitHub Stats
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan5hukla&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan5hukla&theme=tokyonight)
+
 ## 🔗 Projects  
 - [**Finguru**](https://github.com/Aryan5hukla/finguru_chatbot) – AI chatbot for finance-related queries.  
 - [**SoundCheck**](https://github.com/Aryan5hukla/SoundCheck) – A sleek, responsive music player with dynamic playlists, artist info, and cross-device compatibility.  
